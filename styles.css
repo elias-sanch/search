@@ -1,0 +1,10 @@
+.header {
+    height: 48px;
+    position:relative;
+}
+.pos-right {
+    float:right
+}
+.horizontal-menu-item {
+    display: inline
+}
